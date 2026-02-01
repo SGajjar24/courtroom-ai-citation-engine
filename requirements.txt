@@ -1,0 +1,7 @@
+# Core
+pydantic>=2.5.0
+
+# Optional: LLM Integration
+google-generativeai>=0.4.0
+openai>=1.6.0
+langchain>=0.1.0
